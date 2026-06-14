@@ -7,7 +7,7 @@ export const about = {
 };
 
 export const seo = {
-    title: `${about.name} | ${about.role}`,
+    title: `${about.name}`,
     description: "Minimal, clean portfolio of Vaishnav Ambilpur, a Fullstack Developer specializing in React, Next.js, and Node.js.",
     keywords: "portfolio, web developer, Next.js, developer portfolio, Vaishnav Ambilpur, React, Node.js, TypeScript",
 };

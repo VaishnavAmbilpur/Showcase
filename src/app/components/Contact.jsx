@@ -189,6 +189,7 @@ export default function Contact() {
                         <span className="text-xs text-base-content/60">Check out my codebase and projects.</span>
                     </a>
                 )}
+
             </div>
         </div>
     );

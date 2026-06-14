@@ -20,7 +20,16 @@ export default function About() {
                         >
                             (Email)
                         </a>{" "}
-                        I’d love to hear from you.
+                        or check out my{" "}
+                        <a
+                            href="https://vaishnavambilpur.github.io/resume/resume.pdf"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="font-bold hover:underline cursor-pointer"
+                        >
+                            (Resume)
+                        </a>
+                        . I’d love to hear from you.
                     </p>
                 </div>
             </div>
