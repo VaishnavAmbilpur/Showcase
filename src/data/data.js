@@ -13,17 +13,17 @@ export const seo = {
 };
 
 export const skills = [
-    { name: "React JS", alt: "react logo", icon: "/react.svg" },
-    { name: "Next JS", alt: "nextjs logo", icon: "/nextjs.svg" },
+    { name: "React JS", alt: "react logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" },
+    { name: "Next JS", alt: "nextjs logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" },
     { name: "TypeScript", alt: "typescript logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" },
-    { name: "JavaScript", alt: "javascript logo", icon: "/js.svg" },
+    { name: "JavaScript", alt: "javascript logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" },
     { name: "Node JS", alt: "nodejs logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
     { name: "Express JS", alt: "express logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" },
     { name: "PostgreSQL", alt: "postgresql logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
     { name: "MongoDB", alt: "mongodb logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
-    { name: "Tailwind", alt: "tailwind logo", icon: "/tailwind.svg" },
-    { name: "Html", alt: "html logo", icon: "/html.svg" },
-    { name: "Css", alt: "css logo", icon: "/css.svg" },
+    { name: "Tailwind", alt: "tailwind logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" },
+    { name: "Html", alt: "html logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" },
+    { name: "Css", alt: "css logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" },
     { name: "Git", alt: "git logo", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
 ];
 
